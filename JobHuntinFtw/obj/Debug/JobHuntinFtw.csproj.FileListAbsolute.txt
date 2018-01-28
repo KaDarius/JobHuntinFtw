@@ -1,0 +1,7 @@
+C:\Users\kdar0\source\repos\JobHuntinFtw\JobHuntinFtw\obj\Debug\JobHuntinFtw.csprojResolveAssemblyReference.cache
+C:\Users\kdar0\source\repos\JobHuntinFtw\JobHuntinFtw\obj\Debug\JobHuntinFtw.csproj.CoreCompileInputs.cache
+C:\Users\kdar0\source\repos\JobHuntinFtw\JobHuntinFtw\bin\Debug\JobHuntinFtw.exe.config
+C:\Users\kdar0\source\repos\JobHuntinFtw\JobHuntinFtw\bin\Debug\JobHuntinFtw.exe
+C:\Users\kdar0\source\repos\JobHuntinFtw\JobHuntinFtw\bin\Debug\JobHuntinFtw.pdb
+C:\Users\kdar0\source\repos\JobHuntinFtw\JobHuntinFtw\obj\Debug\JobHuntinFtw.exe
+C:\Users\kdar0\source\repos\JobHuntinFtw\JobHuntinFtw\obj\Debug\JobHuntinFtw.pdb
